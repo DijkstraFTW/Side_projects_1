@@ -8,4 +8,4 @@ for l in p :
         l = l - chr(2 * pu)
     if ord(l) == 109 :
         l = l + 1
-                
+input('Press ENTER to exit')                

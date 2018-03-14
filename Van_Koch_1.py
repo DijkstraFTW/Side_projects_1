@@ -35,3 +35,4 @@ def total():
         p = p + 1
     
 total()
+input('Press ENTER to exit')

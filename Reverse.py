@@ -3,3 +3,4 @@ p = ""
 for l in n :
     p = l + p
 print(p)
+input('Press ENTER to exit')

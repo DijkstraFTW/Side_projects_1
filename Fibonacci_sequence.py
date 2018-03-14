@@ -14,7 +14,7 @@ if y == "Y" :
             A = k
         b = b + 1
         print(a)
-if y == "N" :
+elif y == "N" :
     while b < x :
         if x <= 0 :
             break
@@ -26,4 +26,4 @@ if y == "N" :
     print(a)
 else:
     print('Ooops!  That was not a valid answer try again...')
-    
+input('Press ENTER to exit')   

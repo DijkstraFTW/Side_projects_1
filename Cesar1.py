@@ -9,4 +9,4 @@ for l in code :
     if ord(l) == 32 :
         pu = ord(l)
     print(chr(pu), end='')
-
+input('Press ENTER to exit')

@@ -1,4 +1,4 @@
-p = input("Enter the letter to use")
+p = input("Enter the text to use")
 nb = 0 # Compteur 1 
 for l_ in p :
     if l_ != " " :
@@ -10,3 +10,4 @@ for l_ in p :
             lettreMaxi = l_
             nb = nb_
 print(lettreMaxi, nb, sep =' ')
+input('Press ENTER to exit')

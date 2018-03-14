@@ -30,3 +30,4 @@ def snowflake(l):
         snowflake(l-1)
 
 snowflake(l)
+input('Press ENTER to exit')

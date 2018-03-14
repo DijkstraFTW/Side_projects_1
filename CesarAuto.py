@@ -22,3 +22,4 @@ def CesarAuto() :
             pu = ord(i)
         print(chr(pu), end='')
 CesarAuto()
+input('Press ENTER to exit')
